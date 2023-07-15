@@ -5,7 +5,7 @@ adalah sebuah aplikasi server sederhana yang menyediakan REST API untuk mengelol
 
 1. Pastikan Anda memiliki Go dan MySQL terinstal di sistem Anda.
 2. Clone repository ini ke dalam direktori lokal Anda.
-3. Buka terminal dan masuk ke direktori proyek CakeGin.
+3. Buka terminal dan masuk ke direktori proyek CakeStore.
 4. Jalankan perintah berikut untuk mengunduh dependensi yang diperlukan: go mod download
 5. Ubah konfigurasi database sesuai dengan milik Anda dengan membuka file `main.go` dan mengedit bagian berikut di fungsi `main()`:
 ```go
