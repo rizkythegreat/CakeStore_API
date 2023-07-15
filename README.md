@@ -17,5 +17,5 @@ config := DBConfig{
     Database: "cake_store",
 }
 
-Pastikan database MySQL telah berjalan di sistem Anda.
-Jalankan aplikasi dengan perintah: go run main.go
+// Pastikan database MySQL telah berjalan di sistem Anda.
+// Jalankan aplikasi dengan perintah: go run main.go
